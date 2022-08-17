@@ -1,4 +1,7 @@
 import os
 
+print("Brasil")
 
-import os
+path = os.getcwd()
+
+print("alguma outra coisa")
