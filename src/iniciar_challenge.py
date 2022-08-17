@@ -1,5 +1,4 @@
-from selenium import webdriver
 from src.var_fixas import *
 
-def Iniciar_Challenge(driver, url):
+def iniciar_challenge(driver, url):
     driver.get(url)
