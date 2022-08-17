@@ -1,4 +1,5 @@
 import os
 
+path = os.getcwd()
 
-import os
+print(f"Caminho: {path}")
