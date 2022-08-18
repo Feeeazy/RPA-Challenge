@@ -10,7 +10,7 @@ URL_CHALLENGE = 'https://rpachallenge.com/'
 IMPLICITY_WAIT = 60
 
 # Decide se o browser será maximizado ou não
-MAXIMIZAR = True
+MAXIMIZAR = False
 
 # Link para download da planilha do desafio
 URL_DOWNLOAD_SHEET = 'https://rpachallenge.com/assets/downloadFiles/challenge.xlsx'
@@ -19,4 +19,4 @@ URL_DOWNLOAD_SHEET = 'https://rpachallenge.com/assets/downloadFiles/challenge.xl
 DIRETORIO_DOWNLOAD = os.path.join(os.path.expanduser('~'), 'Downloads', 'challenge.xlsx')
 
 # Diretório onde deve estar para ser executado
-DIRETORIO_BIN = os.path.join('C:/GIT/Python/RPA-Challenge/bin', 'challenge.xlsx')
+DIRETORIO_CHALLENGE = os.path.join('C:/GIT/Python/RPA-Challenge/bin', 'challenge.xlsx')

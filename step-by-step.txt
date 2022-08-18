@@ -1,9 +1,9 @@
 Passo a passo do RPA Challenge
 
-1° Faz o download do arquivo .xlsx do site rpachallenge.com
+1° Faz o download do arquivo .xlsx do site rpachallenge.com -- OK
 
 2° Guardar as informações da tabela
 
-3° Inicia o Challenge
+3° Inicia o Challenge -- OK
 
 4° Escreve as informações nos inputs corretos
